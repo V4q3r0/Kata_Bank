@@ -1,0 +1,10 @@
+
+\
+java:S1118	":Add a private constructor to hide the implicit public one.(÷şÎœıÿÿÿÿ8 ÿ‡Õ/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(¨¶ÑÍşÿÿÿÿ8¸ŸıÕ/
+Q
+java:S1068"/Remove this unused "DATE_FORMAT" private field.(†±µ™ıÿÿÿÿ8ÁÓ¹œÕ/
+n
+java:S1192"QUse already-defined constant 'DATE_FORMAT' instead of duplicating its value here.(Ëäã–8ÃÓ¹œÕ/
+x
+java:S2259"\"NullPointerException" will be thrown when invoking method "convertToLocalDateViaInstant()".(Çâõ8‰¦ˆÕ/
